@@ -33,8 +33,5 @@ public class CocheCRUDImpl implements CocheCRUD{
                 '}';
     }
 
-    public static void main(String[] args) {
-        CocheCRUD cocheCRUD = new CocheCRUDImpl();
-        System.out.println(cocheCRUD);
-    }
+   
 }
